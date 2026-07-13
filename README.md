@@ -36,7 +36,7 @@ I also have experience in game and server development.
 
 - **[KoreanNumberParser](https://github.com/airtaxi/KoreanNumberParser)** - A .NET library that parses Korean number strings (like `10억4천3백만이십일`) into int/long and back. The differentiator is that it handles mixed Sino-Korean numerals and Arabic digits in the same expression.
 
-- **[YellowInside](https://github.com/airtaxi/YellowInside)** - A Windows app that lets you use Dccon, Akacon, and Inven stickers in KakaoTalk messenger.
+- **[YellowInside](https://github.com/airtaxi/YellowInside)** - A Windows app that lets you use Dccon, Arcacon, and Inven stickers in KakaoTalk messenger.
 
 - **[CrispShot](https://github.com/airtaxi/CrispShot)** - A lightweight tray utility that fixes the small background border Windows leaves around `Alt + Print Screen` captures, with an optional soft drop shadow so your screenshots look like macOS window captures.
 
