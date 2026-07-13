@@ -64,9 +64,9 @@
 
 ## 통계
 
-<img src="https://github-readme-stats.vercel.app/api?username=airtaxi&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=airtaxi&show_icons=true&theme=default" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=airtaxi&theme=default" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airtaxi&layout=compact&theme=default" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=airtaxi&layout=compact&theme=default" alt="Top Languages" />
 
 ---
 
