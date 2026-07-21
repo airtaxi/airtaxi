@@ -16,7 +16,7 @@ I also have experience in game and server development.
 
 ### Windows Apps & Utilities
 
-- **[PinStats](https://github.com/airtaxi/PinStats)** - A Windows 10/11 program that shows system resources on your desktop. Clean UI with low system resource usage.
+- **[PinStats](https://github.com/airtaxi/PinStats)** - A Windows 10/11 app that shows real-time PC resource usage. Its standout feature is a live usage widget pinned directly into the Windows 11 taskbar — something almost no other system monitor can do.
 
 - **[Deskband11Lib](https://github.com/airtaxi/Deskband11Lib)** - A library for building rich, always-visible taskbar companions on Windows 11. There are similar approaches out there, but this is pretty much the only powerful one packaged as a usable library.
 

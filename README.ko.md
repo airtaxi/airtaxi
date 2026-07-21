@@ -16,7 +16,7 @@
 
 ### 윈도우 앱 & 유틸리티
 
-- **[PinStats](https://github.com/airtaxi/PinStats)** - 윈도우 10/11에서 PC 시스템 리소스를 보여주는 프로그램입니다. 깔끔한 UI에 시스템 리소스 사용량이 적은 게 특징입니다.
+- **[PinStats](https://github.com/airtaxi/PinStats)** - 윈도우 10/11에서 실시간 PC 자원 사용량을 보여주는 앱입니다. Windows 11 작업 표시줄에 사용량 위젯을 직접 고정할 수 있는 게 가장 큰 차별점으로, 다른 시스템 모니터에서는 거의 찾아볼 수 없는 기능입니다.
 
 - **[Deskband11Lib](https://github.com/airtaxi/Deskband11Lib)** - 윈도우 11 작업 표시줄에 위젯을 띄울 수 있는 라이브러리입니다. 비슷한 건 있지만 쓰기 좋게 라이브러리로 정리된 건 이게 거의 유일한 강력한 수단입니다.
 
