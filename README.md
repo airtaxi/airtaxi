@@ -16,13 +16,13 @@ I also have experience in game and server development.
 
 ### Windows Apps & Utilities
 
-- **[PinStats](https://github.com/airtaxi/PinStats)** - A Windows 10/11 app that shows real-time PC resource usage. Its standout feature is a live usage widget pinned directly into the Windows 11 taskbar — something almost no other system monitor can do.
+- **[PinStats](https://github.com/airtaxi/PinStats)** - A Windows 10/11 app that shows real-time PC resource usage. Its standout feature is a live usage widget pinned directly into the Windows 11 taskbar, something almost no other system monitor can do.
 
 - **[Deskband11Lib](https://github.com/airtaxi/Deskband11Lib)** - A library for building rich, always-visible taskbar companions on Windows 11. There are similar approaches out there, but this is pretty much the only powerful one packaged as a usable library.
 
 - **[BarPlay](https://github.com/airtaxi/BarPlay)** - A lightweight taskbar media playback widget for Windows 11. Started as a proof-of-concept for Deskband11Lib, but people around me liked it enough that it became a real app.
 
-- **[AT-Installer](https://github.com/airtaxi/AT-Installer)** - A lightweight Windows installer framework built with WinUI 3. The recently added MSIX-to-EXE packaging feature is the standout, since it lets any MSIX become a double-click installer with no PowerShell or Developer Mode.
+- **[AT-Installer](https://github.com/airtaxi/AT-Installer)** - A lightweight Windows installer framework built with WinUI 3. The recently added MSIX-to-EXE packaging feature lets any MSIX become a double-click installer with no PowerShell or Developer Mode.
 
 - **[DeskBorder](https://github.com/airtaxi/DeskBorder)** - A Windows utility for virtual desktop users. Move your mouse to the screen edge to switch desktops, and a lot more. I just think the idea is good.
 

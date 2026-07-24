@@ -20,9 +20,9 @@
 
 - **[Deskband11Lib](https://github.com/airtaxi/Deskband11Lib)** - 윈도우 11 작업 표시줄에 위젯을 띄울 수 있는 라이브러리입니다. 비슷한 건 있지만 쓰기 좋게 라이브러리로 정리된 건 이게 거의 유일한 강력한 수단입니다.
 
-- **[BarPlay](https://github.com/airtaxi/BarPlay)** - 윈도우 11 작업 표시줄에서 미디어 재생 정보와 컨트롤을 쓸 수 있는 가벼운 위젯입니다. 원래 Deskband11Lib의 PoC로 시작했는데, 주변 사람들 반응이 좋아서 실제 앱으로 만들었습니다.
+- **[BarPlay](https://github.com/airtaxi/BarPlay)** - 윈도우 11 작업 표시줄에서 미디어 재생 정보와 컨트롤을 쓸 수 있는 가벼운 위젯입니다. 원래 Deskband11Lib의 PoC로 시작했는데 주변 사람들 반응이 좋아서 실제 앱으로 만들었습니다.
 
-- **[AT-Installer](https://github.com/airtaxi/AT-Installer)** - WinUI 3로 만든 가벼운 윈도우 설치 프레임워크입니다. 최근에 추가된 MSIX를 EXE로 패키징하는 기능이 차별점인데, PowerShell이나 개발자 모드 없이 MSIX를 더블클릭 설치 파일로 만들어 줍니다.
+- **[AT-Installer](https://github.com/airtaxi/AT-Installer)** - WinUI 3로 만든 가벼운 윈도우 설치 프레임워크입니다. 최근에 추가된 MSIX를 EXE로 패키징하는 기능이 차별점인데 PowerShell이나 개발자 모드 없이 MSIX를 더블클릭 설치 파일로 만들어 줍니다.
 
 - **[DeskBorder](https://github.com/airtaxi/DeskBorder)** - 가상 데스크톱을 쓰는 사람들을 위한 윈도우 유틸리티입니다. 화면 가장자리에 마우스를 대면 데스크톱이 전환되고, 그 외에도 여러 기능이 있습니다. 아이디어가 좋다고 생각합니다.
 
@@ -32,9 +32,9 @@
 
 - **[AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter)** - WinUI 3와 Magick.NET으로 만든 일괄 이미지 변환기입니다. 깔끔한 UI에 지원 포맷과 옵션이 풍부한 게 특징입니다.
 
-- **[ClosedAwake](https://github.com/airtaxi/ClosedAwake)** - 노트북 덮개를 닫아도 깨어 있게 해주는 윈도우 트레이 앱입니다. 절전 방지 도구는 많지만 노트북 덮개 문제를 해결하는 건 거의 없습니다. 이 앱은 그게 가능하고, UI도 깔끔합니다.
+- **[ClosedAwake](https://github.com/airtaxi/ClosedAwake)** - 노트북 덮개를 닫아도 깨어 있게 해주는 윈도우 트레이 앱입니다. 절전 방지 도구는 많지만 노트북 덮개 문제를 해결하는 건 거의 없습니다. 이 앱은 그게 가능하고 UI도 깔끔합니다.
 
-- **[KoreanNumberParser](https://github.com/airtaxi/KoreanNumberParser)** - `10억4천3백만이십일` 같은 한국어 숫자 문자열을 int/long으로 파싱하고, 다시 한국어 숫자 문자열로 변환해 주는 .NET 라이브러리입니다. 한자어 수사와 아라비아 숫자가 섞인 표현까지 처리하는 게 차별점입니다.
+- **[KoreanNumberParser](https://github.com/airtaxi/KoreanNumberParser)** - `10억4천3백만이십일` 같은 한국어 숫자 문자열을 int/long으로 파싱하고 다시 한국어 숫자 문자열로 변환해 주는 .NET 라이브러리입니다. 한자어 수사와 아라비아 숫자가 섞인 표현까지 처리하는 게 차별점입니다.
 
 - **[YellowInside](https://github.com/airtaxi/YellowInside)** - 카카오톡 메신저에서 디시콘, 아카콘, 인벤 스티커를 쓸 수 있게 해주는 윈도우 앱입니다.
 
