@@ -48,6 +48,14 @@
 
 ---
 
+### .NET MAUI 라이브러리
+
+- **[SuggestingBox.Maui](https://github.com/airtaxi/SuggestingBox.Maui)** - .NET MAUI용 에디터 컨트롤입니다. 인라인 멘션, 해시태그, 토큰화된 텍스트를 지원합니다. `@`나 `#`을 치면 추천 팝업이 뜨고, 고른 항목은 스타일이 적용된 토큰으로 들어가 커서가 한 덩어리로 건너뜁니다. Android, iOS, macOS, Windows를 다 지원합니다. 사이드 프로젝트에 쓰려고 찾아봤는데 마음에 드는 게 없어서 직접 만들었습니다.
+
+- **[AnimatedWebP.FFImageLoading.Maui](https://github.com/airtaxi/AnimatedWebP.FFImageLoading.Maui)** - FFImageLoading.Maui를 포크해서 애니메이션 WebP 재생을 붙인 버전입니다. SkiaSharp의 SKCodec으로 프레임을 뽑아냅니다. 드롭인 대체라 네임스페이스랑 어셈블리명이 그대로라 NuGet 패키지만 바꾸면 됩니다. MAUI에서 애니메이션 WebP가 필요했는데 원본이 지원을 안 해서 직접 추가했습니다.
+
+---
+
 ### MCP 서버
 
 터미널에서 AI 코딩 에이전트가 더 많은 일을 할 수 있도록 MCP(Model Context Protocol) 서버도 만들고 있습니다.
