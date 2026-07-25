@@ -50,7 +50,7 @@ I also have experience in game and server development.
 
 ### .NET MAUI Libraries
 
-- **[SuggestingBox.Maui](https://github.com/airtaxi/SuggestingBox.Maui)** - A .NET MAUI editor control with inline mentions, hashtags, and tokenized text. Type `@` or `#` and a suggestion popup appears; picked items become styled, immutable tokens that the cursor skips over as a single unit. Cross-platform across Android, iOS, macOS, and Windows. I wanted something like this for a side project and nothing out there quite fit, so I built it myself.
+- **[SuggestingBox.Maui](https://github.com/airtaxi/SuggestingBox.Maui)** - A .NET MAUI editor control with inline mentions, hashtags, tokenized text, and inline image embedding. Type `@` or `#` and a suggestion popup appears; picked items become styled, immutable tokens that the cursor skips over as a single unit. Pasted images can also be inserted as tokens, so text and images live in one editor. Cross-platform across Android, iOS, macOS, and Windows. I wanted something like this for a side project and nothing out there quite fit, so I built it myself.
 
 - **[AnimatedWebP.FFImageLoading.Maui](https://github.com/airtaxi/AnimatedWebP.FFImageLoading.Maui)** - A fork of FFImageLoading.Maui that adds animated WebP playback on top of SkiaSharp's SKCodec. Drop-in replacement, so the namespaces and assembly name stay the same and you only swap the NuGet package. Came out of needing animated WebP in MAUI and finding the original library didn't ship it.
 
