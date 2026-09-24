@@ -26,7 +26,7 @@
 
 - **[DeskBorder](https://github.com/airtaxi/DeskBorder)** - 가상 데스크톱을 쓰는 사람들을 위한 윈도우 유틸리티입니다. 화면 가장자리에 마우스를 대면 데스크톱이 전환되고, 그 외에도 여러 기능이 있습니다. 아이디어가 좋다고 생각합니다.
 
-- **[Cli-Account-Switcher](https://github.com/airtaxi/Cli-Account-Switcher)** - AI 서비스 제공자(Codex, Claude Code, Z.ai, Ollama Cloud, OpenCode Go)의 인증 계정을 관리하는 윈도우 앱입니다. 작업 표시줄에 항상 떠 있는 사용량 위젯이 꽤나 킥입니다.
+- **[AI Usage Monitor & Switcher](https://github.com/airtaxi/AI-Usage-Monitor-and-Switcher)** - Codex, Claude Code, Z.ai, OpenCode Go, Ollama 계정을 관리하고 전환하는 윈도우 앱입니다. 활성 계정의 남은 사용량과 사용 페이스를 작업 표시줄에서 바로 확인할 수 있습니다.
 
 - **[LidGuard](https://github.com/airtaxi/LidGuard)** - 노트북 덮개를 닫아도 로컬 AI 코딩 에이전트가 계속 깨어 있도록 해줍니다. 비슷한 다른 레포가 아예 없습니다.
 

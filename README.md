@@ -26,7 +26,7 @@ I also have experience in game and server development.
 
 - **[DeskBorder](https://github.com/airtaxi/DeskBorder)** - A Windows utility for virtual desktop users. Move your mouse to the screen edge to switch desktops, and a lot more. I just think the idea is good.
 
-- **[Cli-Account-Switcher](https://github.com/airtaxi/Cli-Account-Switcher)** - A Windows app for managing authentication accounts for AI service providers (Codex, Claude Code, Z.ai, Ollama Cloud, OpenCode Go). The always-on taskbar usage widget is pretty kick.
+- **[AI Usage Monitor & Switcher](https://github.com/airtaxi/AI-Usage-Monitor-and-Switcher)** - A Windows app for managing and switching Codex, Claude Code, Z.ai, OpenCode Go, and Ollama accounts. It keeps the active account’s remaining usage and pace indicator visible right on the taskbar.
 
 - **[LidGuard](https://github.com/airtaxi/LidGuard)** - Keeps local AI coding agents awake even when you close your laptop lid. There is really nothing else like this out there.
 
