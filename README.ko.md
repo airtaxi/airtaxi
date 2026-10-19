@@ -32,6 +32,8 @@
 
 - **[AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter)** - WinUI 3와 Magick.NET으로 만든 일괄 이미지 변환기입니다. 깔끔한 UI에 지원 포맷과 옵션이 풍부한 게 특징입니다.
 
+- **[AT-Batch-Renamer](https://github.com/airtaxi/AT-Batch-Renamer)** - WinUI 3로 만든 파일과 폴더 일괄 이름 변경 도구입니다. 바꾸기, 추가, 대소문자 변환 같은 규칙을 트리거로 쌓아서 한 번에 적용합니다. 실행 전에 미리보기로 새 이름과 충돌을 확인할 수 있고, 실행한 뒤에 되돌릴 수도 있습니다. "추가 옵션 표시"를 거치지 않고 윈도우 11 기본 우클릭 메뉴에 바로 뜨는 것도 장점입니다.
+
 - **[ClosedAwake](https://github.com/airtaxi/ClosedAwake)** - 노트북 덮개를 닫아도 깨어 있게 해주는 윈도우 트레이 앱입니다. 절전 방지 도구는 많지만 노트북 덮개 문제를 해결하는 건 거의 없습니다. 이 앱은 그게 가능하고 UI도 깔끔합니다.
 
 - **[KoreanNumberParser](https://github.com/airtaxi/KoreanNumberParser)** - `10억4천3백만이십일` 같은 한국어 숫자 문자열을 int/long으로 파싱하고 다시 한국어 숫자 문자열로 변환해 주는 .NET 라이브러리입니다. 한자어 수사와 아라비아 숫자가 섞인 표현까지 처리하는 게 차별점입니다.

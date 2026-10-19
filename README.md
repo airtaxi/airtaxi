@@ -32,6 +32,8 @@ I also have experience in game and server development.
 
 - **[AT-Image-Converter](https://github.com/airtaxi/AT-Image-Converter)** - A batch image converter built with WinUI 3 and Magick.NET. Clean UI with a wide range of supported formats and options.
 
+- **[AT-Batch-Renamer](https://github.com/airtaxi/AT-Batch-Renamer)** - A batch file and folder renamer built with WinUI 3. Stack rename rules as triggers, check every new name and conflict in a live preview before running, and undo afterward. It also shows up directly in the Windows 11 right-click menu, no "Show more options" needed.
+
 - **[ClosedAwake](https://github.com/airtaxi/ClosedAwake)** - A Windows tray app that keeps your laptop awake even after you close the lid. Plenty of tools prevent idle sleep, but almost none solve the lid-close problem. This one does, with a clean UI.
 
 - **[KoreanNumberParser](https://github.com/airtaxi/KoreanNumberParser)** - A .NET library that parses Korean number strings (like `10억4천3백만이십일`) into int/long and back. The differentiator is that it handles mixed Sino-Korean numerals and Arabic digits in the same expression.
