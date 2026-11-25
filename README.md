@@ -14,6 +14,10 @@ I also have experience in game and server development.
 
 ## Notable Projects
 
+### Cross-Platform Apps
+
+- **[Errandesk](https://github.com/airtaxi/Errandesk)** - A self-hosted task manager and note-taking app built with ASP.NET Core, MongoDB, and Uno Platform. Built ahead of Microsoft To Do's July 2027 shutdown, it carries over the features I relied on, can import existing To Do data, and adds Markdown notes, an AI assistant, morning briefings, and MCP support.
+
 ### Windows Apps & Utilities
 
 - **[PinStats](https://github.com/airtaxi/PinStats)** - A Windows 10/11 app that shows real-time PC resource usage. Its standout feature is a live usage widget pinned directly into the Windows 11 taskbar, something almost no other system monitor can do.

@@ -14,6 +14,10 @@
 
 ## 주요 프로젝트
 
+### 크로스플랫폼 앱
+
+- **[Errandesk](https://github.com/airtaxi/Errandesk)** - ASP.NET Core, MongoDB, Uno Platform으로 만든 셀프 호스팅 할 일 관리 및 노트 앱입니다. 2027년 7월 Microsoft To Do 서비스 종료에 대비해 쓰던 기능을 그대로 옮기고 기존 데이터도 가져올 수 있게 했으며, Markdown 노트와 AI 어시스턴트, 아침 브리핑, MCP 지원을 더해 더 편리하게 만들었습니다.
+
 ### 윈도우 앱 & 유틸리티
 
 - **[PinStats](https://github.com/airtaxi/PinStats)** - 윈도우 10/11에서 실시간 PC 자원 사용량을 보여주는 앱입니다. Windows 11 작업 표시줄에 사용량 위젯을 직접 고정할 수 있는 게 가장 큰 차별점으로, 다른 시스템 모니터에서는 거의 찾아볼 수 없는 기능입니다.
